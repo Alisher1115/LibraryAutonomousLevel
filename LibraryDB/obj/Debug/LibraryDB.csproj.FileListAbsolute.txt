@@ -1,0 +1,6 @@
+c:\users\chert\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe.config
+c:\users\chert\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe
+c:\users\chert\source\repos\LibraryDB\LibraryDB\bin\Debug\LibraryDB.pdb
+c:\users\chert\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.CoreCompileInputs.cache
+c:\users\chert\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.exe
+c:\users\chert\source\repos\LibraryDB\LibraryDB\obj\Debug\LibraryDB.pdb
